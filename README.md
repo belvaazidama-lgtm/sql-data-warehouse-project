@@ -22,6 +22,13 @@ Cette étape intermédiaire constitue le cœur du travail de préparation. C'est
 ### La Restitution (Niveau Gold)
 Ce dernier niveau regroupe les données finales sous forme de vues simplifiées. Les informations y sont combinées par thèmes clairs, comme les ventes, les clients ou les produits. C'est cette couche que consultent les outils de rapport et de visualisation graphique.
 
+## Outils utilisés
+
+**Notion :** L'espace d'organisation utilisé pour documenter le projet, suivre les tâches et consigner les décisions de conception.
+**Draw.io :** L'outil visuel servant à concevoir le schéma d'architecture et modéliser le flux des données à chaque étape.
+**SQL Server :** Le moteur qui stocke l'ensemble des données et exécute les requêtes.
+**T-SQL (Scripts SQL) :** Le langage d'instructions utilisé pour créer les tables, nettoyer les lignes et construire les vues d'analyse.
+
 ## Organisation du Dépôt
 
 Le dossier Bronze contient les instructions pour importer les données d'origine dans le système.
