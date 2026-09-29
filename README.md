@@ -25,9 +25,13 @@ Ce dernier niveau regroupe les données finales sous forme de vues simplifiées.
 ## Outils utilisés
 
 **Notion :** L'espace d'organisation utilisé pour documenter le projet, suivre les tâches et consigner les décisions de conception.
+
 **Draw.io :** L'outil visuel servant à concevoir le schéma d'architecture et modéliser le flux des données à chaque étape.
+
 **Docker :** La technologie de conteneurisation utilisée pour exécuter l'environnement SQL Server de façon isolée, portable et rapide à déployer.
+
 **SQL Server :** Le moteur qui stocke l'ensemble des données et exécute les requêtes.
+
 **T-SQL (Scripts SQL) :** Le langage d'instructions utilisé pour créer les tables, nettoyer les lignes et construire les vues d'analyse.
 
 ## Organisation du Dépôt
